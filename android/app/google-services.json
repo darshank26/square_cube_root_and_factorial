@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414302920489",
+    "project_id": "square-cube-root-factori-638d4",
+    "storage_bucket": "square-cube-root-factori-638d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414302920489:android:c9325bdc6282545a2aa138",
+        "android_client_info": {
+          "package_name": "com.darshankomu.square_cube_root_and_factorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414302920489-v3u5otlmp8mjkg5bi91b0sgm476su6kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ1hWd8JCFHileO6rd0KISjRHcRCdyBFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414302920489-v3u5otlmp8mjkg5bi91b0sgm476su6kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
